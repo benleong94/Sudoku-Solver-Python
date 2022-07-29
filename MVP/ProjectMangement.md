@@ -15,6 +15,10 @@
 *In this section include a screenshot of a sprint-burndown chart for each of your completed sprints.*
 
 *For each sprint, include links to the standup meetings (recorded on Jira, hopefully) associated with each sprint.*
+![image](https://user-images.githubusercontent.com/56427412/181765259-b5d6426b-f6ef-40b6-94af-10803d052941.png)
+![image](https://user-images.githubusercontent.com/56427412/181765357-82fbbb16-6377-41b1-b0ed-2681c0ee44a8.png)
+![image](https://user-images.githubusercontent.com/56427412/181765435-af2940fd-fd4f-4cc2-8d37-47d4dd16a683.png)
+
 
 ## Burndown-Charts Discussion
 *Add a discussion of what the burndown charts indicate, and how your team might improve their velocity / estimation ability in future sprints.*
