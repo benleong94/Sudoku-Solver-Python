@@ -16,12 +16,19 @@
 *Try to group the requirements under two sub-headings: functional requirements, and non-functional requirements.*
 
 *When marking this section we will be looking to see your team has understood the correct way to represent User-Stories and one or more other requirement modelling methods, and the requirements listed are giving as much relevant information for the development team as possible.*
+
 ![image](https://user-images.githubusercontent.com/56427412/181766493-d0c8231b-09dc-4efc-88a0-2394cebe592c.png)
+
 ![image](https://user-images.githubusercontent.com/56427412/181766598-b32c3634-aac7-4885-bcf3-1a0b86183e17.png)
+
 ![image](https://user-images.githubusercontent.com/56427412/181766676-dac48e4c-1e04-4776-98b9-39d88147d398.png)
+
 ![image](https://user-images.githubusercontent.com/56427412/181766835-a386fdcf-d3c1-46f5-866d-609807ed3fc0.png)
+
 ![image](https://user-images.githubusercontent.com/56427412/181767079-ac7bcca8-c369-49cc-9ec1-e73bc3b34e09.png)
+
 ![image](https://user-images.githubusercontent.com/56427412/181767254-7f5d3c10-c465-4c23-9cd5-c738fdbe17b2.png)
+
 ![image](https://user-images.githubusercontent.com/56427412/181767453-70c4c98f-c247-42e8-8b09-bd1fd565d5fb.png)
 
 
