@@ -7,6 +7,10 @@
 
 *Who is likely to use/buy this product.  What demographic?*
 
+Ages 13 and up, both male and female, regardless of ethnicity or religion, anyone who is IT literate and has an interest in solving Sudoku puzzles. Target audience would mostly consist of students. Income level would not be applicable since this is a free product made readily available. We aim to capture the
+Singapore market.
+(age, gender, ethnicity, religion, level of education, occupation, income)
+
 # Economics
 * What is the total size of your market?
 * What percent share of the market will you have?
