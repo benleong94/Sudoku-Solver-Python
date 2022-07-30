@@ -14,6 +14,7 @@
 *In addition to user stories (which is the main thing we are trying to teach for agile), try to include one or two other requirement modelling techniques, e.g. as listed in the lecture.*
 
 Functional: 
+
 Use-case #1
 1. Title: Solving algorithm	
 2. Primary Actor: Game level generator (GLG)
