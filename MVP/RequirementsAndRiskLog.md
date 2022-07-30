@@ -65,5 +65,8 @@ Time
 As a working adults part time student, time risk are the challenge we facing. A well time management is important and need to be implemented for us to achieve a life balance between our family, career and study. 
 
 Manpower
+
+We occasionally encounter staffing constraints during job allocation or meetings, and this is because some of the team members work shift jobs. The impact of the staffing risk was minimized by conducting a team meeting after work or during weekends. The team member unable to attend the meeting will be given updates on project progress using social media applications like Whatapps.
+
 Client requirement vague (adapting to demands)
 
