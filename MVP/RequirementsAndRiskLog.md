@@ -71,6 +71,9 @@ We occasionally encounter staffing constraints during job allocation or meetings
 
 Client requirement vague (adapting to demands)
 
+Vague client is the customer normally unsure what they needs. It will be a difficult challenge for project team to understand what client needs and take longer time to 
+provide more product information. sometimes can even lead to client frustration due to the product not meeting client requirements multiple times. To achieve vague client needs and bring the project to the goals. Project team need to be very calm in listening to client and list down the point and requirement needs in formal to fulfill their requirements.
+
 Health and safety
 
 The ongoing Covid19 pandemic restricts our team meetings from being conducted face-to-face externally. One of our members was infected by covid around sprint 2, which led to canceling our planned gatherings, mainly because of infection risk. We mitigated this by conducting meetings online.
