@@ -2,6 +2,16 @@
 
 *In this markdown document, list all of the requirements that you have identified for your product so far.*
 
+*The project codes shall be written in Python.
+
+*We expected to use GitHub for code version control and collaboration, Jira for team project management.
+
+*All team members are expected to play the roles of Scrum Master and Product Owner at least once throughout the project. Your team is expected to hold regular stakeholder review meetings and scrum ceremonies including stand-up meetings, sprint retrospective and sprint planning.
+
+*The purpose of the Game Level Generator is to create a new level of the game based on a given map or grid size and other relevant parameters. It shall generate a screen display and a data file of the level as well as a recommended solution to complete the level in the most effective and efficient way. 
+
+*The purpose of the Smart Game Solver is to read the data file and complete the level in the most effective and efficient way. After which, it will make a comparison of its best solution and the Game Level Generator’s solution and produce an analytical report. The analytical report shall provide recommendations for a new level with relevant parameters for the Game Level Generator. The new level may be more difficult or easier. 
+
 # Requirements
 
 *List several user stories (no more than 8) that describe the product requirements. For each user story that you include:*
