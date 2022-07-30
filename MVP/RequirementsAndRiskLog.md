@@ -13,17 +13,21 @@
 
 *In addition to user stories (which is the main thing we are trying to teach for agile), try to include one or two other requirement modelling techniques, e.g. as listed in the lecture.*
 
-Use-case title: Solving algorithm	
-Primary Actor: Game level generator (GLG)
-Story:The game level generator should be able to use the solving algorithm to solve the sudoku grid. 
+Functional: 
+Use-case #1
+1. Title: Solving algorithm	
+2. Primary Actor: Game level generator (GLG)
+3. Story:The game level generator should be able to use the solving algorithm to solve the sudoku grid. 
 
-Use-Case title: Algorithm analysis 
-Primary Actor: Smart game solver (SGS)
-Story: The SGS should be able to generate an analytics report of the sudoku algorithms and use the data to provide recommendations for a new level
+Use-case #2
+1. Title: Algorithm analysis 
+2. Primary Actor: Smart game solver (SGS)
+3. Story: The SGS should be able to generate an analytics report of the sudoku algorithms and use the data to provide recommendations for a new level
 
-Use-case title: Difficulty selection
-Primary Actor: User
-Story: The user should be able to select the difficulty of the next level, so that the GLG can generate the new grid. 
+Use-case #3
+1. Use-case title: Difficulty selection
+2. Primary Actor: User
+3. Story: The user should be able to select the difficulty of the next level, so that the GLG can generate the new grid. 
 
 *Try to group the requirements under two sub-headings: functional requirements, and non-functional requirements.*
 
