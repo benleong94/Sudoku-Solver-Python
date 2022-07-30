@@ -62,7 +62,8 @@ Use-case #3
 
 Time
 
-As a working adults part time student, time risk are the challenge we facing. A well time management is important and need to be implemented for us to achieve a life balance between our family, career and study. 
+As a working adults part time student, time risk are the challenge we facing. A well time management is important and need to be implemented for us to achieve a 
+life balance between our family, career and study. The requirement to form a well time management includes, prepare a to do list, deadline and finish the project within the timeline we set. 
 
 Manpower
 
