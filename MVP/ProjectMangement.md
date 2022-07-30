@@ -10,7 +10,6 @@
 
 *If standup meetings were used, then include a Jira link, and discuss their effectiveness.*
 
-Overall, we have managed to assimilate well and work together in a team effectviely. 
 
 Overall, we have managed to assimilate well and work together in a team effectviely. We keep track of our progress on a weekly basis 
 mostly. We are all full-time working adults with other personal and family commitments. We had to learn how to manage our time effectively 
