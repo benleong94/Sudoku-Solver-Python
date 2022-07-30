@@ -22,7 +22,8 @@
 
 ## Burndown-Charts Discussion
 *Add a discussion of what the burndown charts indicate, and how your team might improve their velocity / estimation ability in future sprints.
-*The burn-down charts show how many tasks are completed in the sprints and how much work remains. We can improve our velocity in future sprints by clarifying tasks and providing a reasonable time estimate.
+
+The burn-down charts show how many tasks are completed in the sprints and how much work remains. We can improve our velocity in future sprints by clarifying tasks and providing a reasonable time estimate.
 
 ## Product Backlog
 *Include here a screenshot of your current product backlog.*
