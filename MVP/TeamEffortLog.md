@@ -12,29 +12,28 @@
 * Decide which game product we choose for the project. Coding for smart game solver.
 
 ### Sprint 3 (week 4):
-* Testing and debugging session
+* Testing and debugging session.
 
 ### Sprint 4 (week 4) :
-* Coding for user interface. Preparing MVP document.
+* Coding for user interface("Solve Puzzle!"). Preparing MVP document.
 
-## Team member name 2
+## Chio Yong Kong
 
 *Edit the name above to match the name of the team member.  That team member is then responsible for this section.*
 
-### Sprint 1 :
-* *Include a URL to the most siginificant Jira tasks assigned to you in sprint 1, and state when (or whether) it was completed, and the hours spent.*
-* *Example: "Link to Task 2.  It was set and completed in sprint 2.  It took 1 hour.  Extra relevant comment."*
-* *To save time, just describe the main (e.g. no more than 3) Jira issues assigned to you in this sprint. You are free to pick which 3 to describe.*
-* *Describe any relevant java coding completed by you in Sprint 1.  Also include permalinks to your gitlab commits.*
-* *Include the university week number in the subheading, as above.*
+### Sprint 1 (week 2) :
+* Try to understand what are the goal of the project and try to familize with Jira and Github.
 
-### Sprint 2 :
+### Sprint 2 (week 3) :
+* Decide which game product we choose for the project. Coding for smart game solver.
 
-### Sprint 3 :
+### Sprint 3 (week 4):
+* Testing and debugging session.
 
-### Sprint 4 :
+### Sprint 4 (week 4) :
+* Coding for user interface("Easier"and"Harder"). Preparing MVP document.
 
-## Team member name 3
+## 
 
 *Edit the name above to match the name of the team member.  That team member is then responsible for this section.*
 
