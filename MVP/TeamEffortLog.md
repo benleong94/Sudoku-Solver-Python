@@ -33,38 +33,34 @@
 ### Sprint 4 (week 4) :
 * Coding for user interface("Easier"and"Harder"). Preparing MVP document.
 
-## 
+## Benjamin Leong Jia Juin
 
 *Edit the name above to match the name of the team member.  That team member is then responsible for this section.*
 
-### Sprint 1 :
-* *Include a URL to the most siginificant Jira tasks assigned to you in sprint 1, and state when (or whether) it was completed, and the hours spent.*
-* *Example: "Link to Task 2.  It was set and completed in sprint 2.  It took 1 hour.  Extra relevant comment."*
-* *To save time, just describe the main (e.g. no more than 3) Jira issues assigned to you in this sprint. You are free to pick which 3 to describe.*
-* *Describe any relevant java coding completed by you in Sprint 1.  Also include permalinks to your gitlab commits.*
-* *Include the university week number in the subheading, as above.*
+### Sprint 1 (week 2) :
+* Try to visualize the final output of the project and familize with Jira and Github. Create Jira and Github repository and invite all team members to join in.
 
-### Sprint 2 :
+### Sprint 2 (week 3) :
+* Decide which game product choose for the team project. Coding for game level generator.
 
-### Sprint 3 :
+### Sprint 3 (week 4):
+* Testing and debugging session.
 
-### Sprint 4 :
+### Sprint 4 (week 4) :
+* Coding for game difficulty selection's algorithm. Preparing MVP document.
 
-## Team member name 4
+## Nelson Tan Chun Soon
 
 *Edit the name above to match the name of the team member.  That team member is then responsible for this section.*
 
-### Sprint 1 :
-* *Include a URL to the most siginificant Jira tasks assigned to you in sprint 1, and state when (or whether) it was completed, and the hours spent.*
-* *Example: "Link to Task 2.  It was set and completed in sprint 2.  It took 1 hour.  Extra relevant comment."*
-* *To save time, just describe the main (e.g. no more than 3) Jira issues assigned to you in this sprint. You are free to pick which 3 to describe.*
-* *Describe any relevant java coding completed by you in Sprint 1.  Also include permalinks to your gitlab commits.*
-* *Include the university week number in the subheading, as above.*
+### Sprint 1 (week 2) :
+* Try to understannd the requirement of the project and testing the features of Jira and Github. 
 
-### Sprint 2 :
+### Sprint 2 (week 3) :
+* Decide which game product suitable for the team project. Coding for game level generator.
 
-### Sprint 3 :
+### Sprint 3 (week 4):
+* Testing and debugging session.
 
-### Sprint 4 :
-
-
+### Sprint 4 (week 4) :
+* Coding for analytic report. Preparing MVP document.
