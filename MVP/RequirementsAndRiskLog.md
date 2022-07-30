@@ -71,3 +71,6 @@ We occasionally encounter staffing constraints during job allocation or meetings
 
 Client requirement vague (adapting to demands)
 
+Health and safety
+
+The ongoing Covid19 pandemic restricts our team meetings from being conducted face-to-face externally. One of our members was infected by covid around sprint 2, which led to canceling our planned gatherings, mainly because of infection risk. We mitigated this by conducting meetings online.
