@@ -61,5 +61,9 @@ Use-case #3
 *When marking this section we will be looking to see several realistic risks have been noted, and are actively being tracked and mitigated against.*
 
 Time
+
+As a working adults part time student, time risk are the challenge we facing. A well time management is important and need to be implemented for us to achieve a life balance between our family, career and study. 
+
 Manpower
 Client requirement vague (adapting to demands)
+
