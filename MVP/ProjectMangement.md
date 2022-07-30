@@ -12,6 +12,16 @@
 
 Overall, we have managed to assimilate well and work together in a team effectviely. 
 
+Overall, we have managed to assimilate well and work together in a team effectviely. We keep track of our progress on a weekly basis 
+mostly. We are all full-time working adults with other personal and family commitments. We had to learn how to manage our time effectively 
+and coordinate with each other in order to get work done.
+
+We had some physical meetings as well as online meetings to discuss the project. We then proceeded to split the work and we work in teams of 2. 
+We realized that such an arrangement (of working in pairs) works well for us. 
+
+For better communication, we used mostly Whatsapp and MS Teams to coordinate our work. We ensured that our ideas were communicated properly and 
+ask each other questions to get clarification. This helped to prevent any misunderstanding, to prevent any communication issues.
+
 ## Sprint Burndown Charts
 
 *In this section include a screenshot of a sprint-burndown chart for each of your completed sprints.*
