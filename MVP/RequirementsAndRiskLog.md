@@ -6,7 +6,7 @@
 
 *We expected to use GitHub for code version control and collaboration, Jira for team project management.
 
-*All team members are expected to play the roles of Scrum Master and Product Owner at least once throughout the project. Your team is expected to hold regular stakeholder review meetings and scrum ceremonies including stand-up meetings, sprint retrospective and sprint planning.
+*All team members are expected to play the roles of Scrum Master and Product Owner at least once throughout the project. Our team is expected to hold regular stakeholder review meetings and scrum ceremonies including stand-up meetings, sprint retrospective and sprint planning.
 
 *The purpose of the Game Level Generator is to create a new level of the game based on a given map or grid size and other relevant parameters. It shall generate a screen display and a data file of the level as well as a recommended solution to complete the level in the most effective and efficient way. 
 
