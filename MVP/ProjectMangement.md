@@ -18,6 +18,9 @@ and coordinate with each other in order to get work done.
 We had some physical meetings as well as online meetings to discuss the project. We then proceeded to split the work and we work in teams of 2. 
 We realized that such an arrangement (of working in pairs) works well for us. 
 
+During scrum meetings, we always had a scrum master and a product owner. We rotated the roles every week so that everyone could
+play different roles.
+
 For better communication, we used mostly Whatsapp and MS Teams to coordinate our work. We ensured that our ideas were communicated properly and 
 ask each other questions to get clarification. This helped to prevent any misunderstanding, to prevent any communication issues.
 
