@@ -25,6 +25,8 @@
 
 ## Product Backlog
 *Include here a screenshot of your current product backlog.*
+![image](https://user-images.githubusercontent.com/56427412/181870600-defa272c-72f4-4d8e-abff-d96c9a41cc37.png)
+
 
 ## Other Areas
 *If your team has anything else they want to demonstrate, e.g. advanced project management tools, reporting graphs with suitable explanation and interpretation, advanced use of Jira (e.g. issue links, epics, versions), or continuous integration tools, then include a summary here.*
