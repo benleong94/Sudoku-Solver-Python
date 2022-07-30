@@ -10,6 +10,8 @@
 
 *If standup meetings were used, then include a Jira link, and discuss their effectiveness.*
 
+Overall, we have managed to assimilate well and work together in a team effectviely. 
+
 ## Sprint Burndown Charts
 
 *In this section include a screenshot of a sprint-burndown chart for each of your completed sprints.*
