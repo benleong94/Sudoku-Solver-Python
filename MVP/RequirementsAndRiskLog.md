@@ -34,7 +34,7 @@ Use-case #3
 
 *When marking this section we will be looking to see your team has understood the correct way to represent User-Stories and one or more other requirement modelling methods, and the requirements listed are giving as much relevant information for the development team as possible.*
 
-![image](https://user-images.githubusercontent.com/56427412/181766493-d0c8231b-09dc-4efc-88a0-2394cebe592c.png)
+![image](https://user-images.githubusercontent.com/56427412/181870991-72454306-dee6-47e7-a950-8e68fae3d105.png)
 
 ![image](https://user-images.githubusercontent.com/56427412/181766598-b32c3634-aac7-4885-bcf3-1a0b86183e17.png)
 
