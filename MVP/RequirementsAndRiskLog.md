@@ -2,15 +2,15 @@
 
 *In this markdown document, list all of the requirements that you have identified for your product so far.*
 
-*The project codes shall be written in Python.
+The project codes shall be written in Python.
 
-*We expected to use GitHub for code version control and collaboration, Jira for team project management.
+We expected to use GitHub for code version control and collaboration, Jira for team project management.
 
-*All team members are expected to play the roles of Scrum Master and Product Owner at least once throughout the project. Our team is expected to hold regular stakeholder review meetings and scrum ceremonies including stand-up meetings, sprint retrospective and sprint planning.
+All team members are expected to play the roles of Scrum Master and Product Owner at least once throughout the project. Our team is expected to hold regular stakeholder review meetings and scrum ceremonies including stand-up meetings, sprint retrospective and sprint planning.
 
-*The  Game Level Generator will create a new Sudoku grid based on the number of tries, the number of errors and the time taken to solve the previous grid. The user can choose if the new grid should be easier or harder. It shall generate a screen display of the grid, and a recommended solution to solve the Sudoku grid. 
+The  Game Level Generator will create a new Sudoku grid based on the number of tries, the number of errors and the time taken to solve the previous grid. The user can choose if the new grid should be easier or harder. It shall generate a screen display of the grid, and a recommended solution to solve the Sudoku grid. 
 
-*The Smart Game Solver will read the Sudoku grid and complete the level in the most effective and efficient way. After which, it will make a comparison of its solution and the Game Level Generator’s solution using 3 indicators - number of tries, number of errors and time taken. After which, it will produce an analytical report. The analytical report shall provide recommendations for how the Game Level Generator can generate a new level using the given indicators. The user can choose if the new level will be more difficult or easier. 
+The Smart Game Solver will read the Sudoku grid and complete the level in the most effective and efficient way. After which, it will make a comparison of its solution and the Game Level Generator’s solution using 3 indicators - number of tries, number of errors and time taken. After which, it will produce an analytical report. The analytical report shall provide recommendations for how the Game Level Generator can generate a new level using the given indicators. The user can choose if the new level will be more difficult or easier. 
 
 # Requirements
 
