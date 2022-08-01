@@ -75,4 +75,5 @@
 * Testing and debugging session.
 
 ### Sprint 4 (week 4) :
-* Coding for analytic report. Preparing MVP document.
+* Coding for analytic report. 
+* Preparing MVP document.
