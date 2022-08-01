@@ -36,7 +36,7 @@
 
 *The story was assigned to all of us, and its was completed.
 
-Functional: 
+Functional requirements: 
 
 Use-case #1
 1. Title: Solving algorithm	
@@ -66,7 +66,7 @@ Manpower
 
 Client/project requirements
 
-*It's a difficult challenge for the project team to understand what the client needs, and it takes us longer to extract more product information. Sometimes can even lead to client frustration due to the product, not meeting client requirements. To accomplish client demands and bring the project to its goals. The project team needs to be very tedious in listening to the client and listing down the point and requirements need in formal to fulfill their requirements.
+*It's a difficult challenge for the project team to understand what the client needs, and it takes us longer time to extract more product information. Sometimes can even lead to client frustration due to the product, not meeting client requirements. To accomplish client demands and bring the project to its goals. The project team needs to be very tedious in listening to the client and listing down the point and requirements need in formal to fulfill their requirements.
 
 Health and safety
 
