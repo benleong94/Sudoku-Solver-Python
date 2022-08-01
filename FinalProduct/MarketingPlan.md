@@ -18,8 +18,8 @@ Singapore market.
 * What are the trends in target market?
 
 # Competition
-* Which other products are on the market, and what advantages can you offer over them?
 
+The other products on the market are Sudoku solvers. They simply accept a Sudoku grid, solve it with an algorithm and display the answer. Our product differs from them in a few ways. Firstly, our program can analyze algorithms by calculating the number of tries, errors and time taken to solve the Sudoku grid. Secondly, it can provides a report that compares between different algorithms. Thirdly, it can generate a new Sudoku level based on given parameters, and allows the user to choose an easier or harder Sudoku grid, 
 
 # Product, Price, Promotion, Place
 * Describe how the 4Ps apply to your product - Product, Place, Promotion, Price, and what you can do/have done to enhance these aspects.
