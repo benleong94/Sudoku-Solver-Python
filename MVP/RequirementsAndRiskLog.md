@@ -13,18 +13,25 @@ The Smart Game Solver will read the Sudoku grid and complete the level in the mo
 # Requirements
 
 ![image](https://user-images.githubusercontent.com/56427412/181870991-72454306-dee6-47e7-a950-8e68fae3d105.png)
+The story was assigned to Benjamin and Nelson, and its was completed.
 
 ![image](https://user-images.githubusercontent.com/56427412/181766598-b32c3634-aac7-4885-bcf3-1a0b86183e17.png)
+The story was assigned to Benjamin and Nelson, and its was completed.
 
 ![image](https://user-images.githubusercontent.com/56427412/181766676-dac48e4c-1e04-4776-98b9-39d88147d398.png)
+The story was assigned to Benjamin and Nelson, and its was completed.
 
 ![image](https://user-images.githubusercontent.com/56427412/181766835-a386fdcf-d3c1-46f5-866d-609807ed3fc0.png)
+The story was assigned to Yong Kiong and Chee Wee, and its was completed.
 
 ![image](https://user-images.githubusercontent.com/56427412/181767079-ac7bcca8-c369-49cc-9ec1-e73bc3b34e09.png)
+The story was assigned to Benjamin and Nelson, and its was completed.
 
 ![image](https://user-images.githubusercontent.com/56427412/181767254-7f5d3c10-c465-4c23-9cd5-c738fdbe17b2.png)
+The story was assigned to Benjamin, and its was completed.
 
 ![image](https://user-images.githubusercontent.com/56427412/181767453-70c4c98f-c247-42e8-8b09-bd1fd565d5fb.png)
+The story was assigned to all of us, and its was completed.
 
 Functional: 
 
