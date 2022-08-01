@@ -7,9 +7,11 @@
 
 ### Sprint 1 (week 2) :
 * Try to understand what are the goal of the project and try to familize with Jira and Github.
+* Decide which game product we choose for the project. 
 
 ### Sprint 2 (week 3) :
-* Decide which game product we choose for the project. Coding for smart game solver.
+* Coding for smart game solver.
+* Coding for an alternate, and faster algorithm to solve the Sudoku grid. 
 
 ### Sprint 3 (week 4):
 * Testing and debugging session.
@@ -23,9 +25,11 @@
 
 ### Sprint 1 (week 2) :
 * Try to understand what are the goal of the project and try to familize with Jira and Github.
+* Decide which game product we choose for the project. 
 
 ### Sprint 2 (week 3) :
-* Decide which game product we choose for the project. Coding for smart game solver.
+* Coding for smart game solver.
+* Coding for an alternate, and faster algorithm to solve the Sudoku grid. 
 
 ### Sprint 3 (week 4):
 * Testing and debugging session.
@@ -38,28 +42,36 @@
 *Edit the name above to match the name of the team member.  That team member is then responsible for this section.*
 
 ### Sprint 1 (week 2) :
-* Try to visualize the final output of the project and familize with Jira and Github. Create Jira and Github repository and invite all team members to join in.
+* Try to understand what are the goal of the project and try to familize with Jira and Github.
+* Decide which game product we choose for the project. 
+* Create Jira and Github repository and invite all team members to join in.
 
 ### Sprint 2 (week 3) :
-* Decide which game product choose for the team project. Coding for game level generator.
+* Coding for game level generator 
+* Coding for a Sudoku grid generator and a solving algorithm.
 
 ### Sprint 3 (week 4):
+* Coding for a screen display of the grid and algorithm. 
 * Testing and debugging session.
 
 ### Sprint 4 (week 4) :
-* Coding for game difficulty selection's algorithm. Preparing MVP document.
+* Coding for game difficulty selection's algorithm. 
+* Preparing MVP document.
 
 ## Nelson Tan Chun Soon
 
 *Edit the name above to match the name of the team member.  That team member is then responsible for this section.*
 
 ### Sprint 1 (week 2) :
-* Try to understannd the requirement of the project and testing the features of Jira and Github. 
+* Try to understand what are the goal of the project and try to familize with Jira and Github.
+* Decide which game product we choose for the project. 
 
 ### Sprint 2 (week 3) :
-* Decide which game product suitable for the team project. Coding for game level generator.
+* Coding for game level generator. 
+* Coding for a Sudoku grid generator and a solving algorithm. 
 
 ### Sprint 3 (week 4):
+* Coding for a screen display of the grid and algorithm. 
 * Testing and debugging session.
 
 ### Sprint 4 (week 4) :
