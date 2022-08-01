@@ -36,6 +36,7 @@
 
 *The story was assigned to all of us, and its was completed.
 
+
 Functional requirements: 
 
 Use-case #1
