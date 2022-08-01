@@ -8,9 +8,9 @@
 
 *All team members are expected to play the roles of Scrum Master and Product Owner at least once throughout the project. Our team is expected to hold regular stakeholder review meetings and scrum ceremonies including stand-up meetings, sprint retrospective and sprint planning.
 
-*The purpose of the Game Level Generator is to create a new level of the game based on a given map or grid size and other relevant parameters. It shall generate a screen display and a data file of the level as well as a recommended solution to complete the level in the most effective and efficient way. 
+*The  Game Level Generator will create a new Sudoku grid based on the number of tries, the number of errors and the time taken to solve the previous grid. The user can choose if the new grid should be easier or harder. It shall generate a screen display of the grid, and a recommended solution to solve the Sudoku grid. 
 
-*The purpose of the Smart Game Solver is to read the data file and complete the level in the most effective and efficient way. After which, it will make a comparison of its best solution and the Game Level Generator’s solution and produce an analytical report. The analytical report shall provide recommendations for a new level with relevant parameters for the Game Level Generator. The new level may be more difficult or easier. 
+*The Smart Game Solver will read the Sudoku grid and complete the level in the most effective and efficient way. After which, it will make a comparison of its solution and the Game Level Generator’s solution using 3 indicators - number of tries, number of errors and time taken. After which, it will produce an analytical report. The analytical report shall provide recommendations for how the Game Level Generator can generate a new level using the given indicators. The user can choose if the new level will be more difficult or easier. 
 
 # Requirements
 
