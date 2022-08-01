@@ -1,9 +1,6 @@
 # Team Effort Log
-*In this section, add a heading for each team member, and under it add the sub headings "Sprint 1, Sprint 2, ..., Sprint N", as illustrated below.  Each team member can be responsible for writing their own section.*
 
 ## Kong Chee Wee
-
-*Edit the name above to match the name of the team member.  That team member is then responsible for this section.*
 
 ### Sprint 1 (week 2) :
 * Try to understand what are the goal of the project and try to familize with Jira and Github.
@@ -21,8 +18,6 @@
 
 ## Chio Yong Kong
 
-*Edit the name above to match the name of the team member.  That team member is then responsible for this section.*
-
 ### Sprint 1 (week 2) :
 * Try to understand what are the goal of the project and try to familize with Jira and Github.
 * Decide which game product we choose for the project. 
@@ -38,8 +33,6 @@
 * Coding for user interface("Easier"and"Harder"). Preparing MVP document.
 
 ## Benjamin Leong Jia Juin
-
-*Edit the name above to match the name of the team member.  That team member is then responsible for this section.*
 
 ### Sprint 1 (week 2) :
 * Try to understand what are the goal of the project and try to familize with Jira and Github.
@@ -59,8 +52,6 @@
 * Preparing MVP document.
 
 ## Nelson Tan Chun Soon
-
-*Edit the name above to match the name of the team member.  That team member is then responsible for this section.*
 
 ### Sprint 1 (week 2) :
 * Try to understand what are the goal of the project and try to familize with Jira and Github.
