@@ -37,7 +37,7 @@ The algorithms used to solve the Sudoku puzzles are backtracking algorithms. The
 ## Imported Libraries 
 *List any 3rd party libraries that were used and describe what functionality they provided.*
 
-The libraries that were imported were pygame, time, json and random.  The Pygame is the main library used to construct the Sudoku game. The time library is used to calculated the time taken for the algorithm to solve the grid. The json library was used to create a copy of the grid. The random library is used to generate a random number. 
+The libraries that were imported were pygame, time, json and random. Pygame is the main library used to construct the Sudoku game. The time library is used to calculated the time taken for the algorithm to solve the grid. The json library was used to create a copy of the grid. The random library is used to generate a random number. 
 
 ## Known Issues
 *List any known issues (bugs) in your software, and describe workarounds if they exist.*
