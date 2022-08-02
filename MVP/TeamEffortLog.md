@@ -14,7 +14,8 @@
 * Testing and debugging session.
 
 ### Sprint 4 (week 4) :
-* Coding for user interface("Solve Puzzle!"). Preparing MVP document.
+* Coding for user interface("Solve Puzzle!"). 
+* Preparing MVP document.
 
 ## Chio Yong Kong
 
@@ -30,7 +31,8 @@
 * Testing and debugging session.
 
 ### Sprint 4 (week 4) :
-* Coding for user interface("Easier"and"Harder"). Preparing MVP document.
+* Coding for user interface("Easier"and"Harder"). 
+* Preparing MVP document.
 
 ## Benjamin Leong Jia Juin
 
