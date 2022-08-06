@@ -2,9 +2,12 @@
 
 ## Project management discussion
 
-*Include a paragraph or two, agreed by all team members, on how well the group has worked together, and how well the project is progressing.*
+*Include a paragraph or two, agreed by all team members, on how well the group has worked together, and how well the project is progressing.
+
 *Discuss the scrum meetings, and what could make them more efficient (if anything).*
+
 *Highlight any communication issues that might be affecting the project.*
+
 *If standup meetings were used, then include a Jira link, and discuss their effectiveness.*
 
 Generally, we managed to assimilate well and work together in a team effectviely. As most of us are new to Agile methodology, we needed some time before becoming more familiar with how to run the scrum meetings. 
