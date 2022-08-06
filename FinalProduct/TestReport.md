@@ -19,7 +19,7 @@ This software testing includes three important sections.
 
 3. An easier or harder grid should be able to be generated with the input of the indicators from the previous grid. 
 
-As of the end of sprintfour , The product passes testing for all three sections. 
+As of the end of sprint four , The product passes testing for all three sections. 
 
 
 ## Automatic Testing:
