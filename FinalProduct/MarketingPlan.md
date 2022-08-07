@@ -11,6 +11,10 @@ Ages 13 and up, both male and female, regardless of ethnicity or religion, anyon
 Singapore market.
 (age, gender, ethnicity, religion, level of education, occupation, income)
 
+Sudoku is a puzzle games which can assist people exersice their left brain, during solving of sudoku allows us to "stretch the muscles" in a section of our brain that may not often see a lot of use in our daily lives. Student age 13 above and elderly age 55 above will be our target audience due to student elderly have more times and
+most of elderly like to keep their mind sharp by solving puzzle. Our product is free to download with in game advertisement and its will be popular among them, primarily because they having least spending capability compared to those who are working. We aim to capture singapore market, as singapore is one of the country 
+are facing increase of elderly population. 
+
 # Economics
 
 * Its quite hard to estimate the total size and percent share of the market of sudoku games in Singapore, as the game is relatively new compared to other puzzles such as crossword and word search puzzles. The fact that the game doesn't require any mathematical and wording ability makes it highly popular among leisure players, which raises the demand for its supply of more complex levels as the user can finish each puzzle in a short time. There is also demand from hardcore players who want to explore new or alternative solving techniques besides the old backtracking method.
