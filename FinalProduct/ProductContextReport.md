@@ -44,3 +44,5 @@ Data Protection Act 1998
 
 ## Health and Safety
 Consider any H&S issues that have arisen or are associated with your product. 
+
+The Health and Safety (Display Screen Equipment) Regulations 1992 place specific requirements on employers with the aim of protecting workers from the health risks associated with DSE. These duties also apply to the self-employed.
