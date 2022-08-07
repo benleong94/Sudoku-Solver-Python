@@ -18,6 +18,7 @@
 * Preparing MVP document.
 
 ### Sprint 5 (week 5) :
+* Preparing final product document and slide.
 
 ## Chio Yong Kong
 
@@ -37,6 +38,7 @@
 * Preparing MVP document.
 
 ### Sprint 5 (week 5) :
+* Preparing final product document and slide.
 
 ## Benjamin Leong Jia Juin
 
@@ -58,6 +60,7 @@
 * Preparing MVP document.
 
 ### Sprint 5 (week 5) :
+* Preparing final product document and slide.
 
 ## Nelson Tan Chun Soon
 
@@ -78,3 +81,4 @@
 * Preparing MVP document.
 
 ### Sprint 5 (week 5) :
+* Preparing final product document and slide.
