@@ -45,4 +45,17 @@ Data Protection Act 1998
 ## Health and Safety
 Consider any H&S issues that have arisen or are associated with your product. 
 
-The Health and Safety (Display Screen Equipment) Regulations 1992 place specific requirements on employers with the aim of protecting workers from the health risks associated with DSE. These duties also apply to the self-employed.
+The Health and Safety (Display Screen Equipment) Regulations 1992 place specific requirements on employers with the aim of protecting workers from the health risks associated with DSE. These duties also apply to the self-employed. These provisions would mostly apply to our staff, particularly our Sudoku developers. Consumers would have to exercise their own judgement and self-responsibility to prevent excesive use of our product, resulting in detrimental health problems. 
+
+Display Screen Equipment means any alphanumeric or graphic display screen, regardless of the display process involved. It covers PCs, laptops, tablets and smartphones as well as other methods of displaying data, such as CCTV screens.
+
+A 'user' or 'operator' is a worker or self-employed person who uses display screen equipment as a significant part of their normal work. The Health and Safety Executive (HSE) specify that it applies to 'workers who use DSE daily, for an hour or more at a time not infrequent users or short-term use'.
+
+Eye tests
+Eyesight tests and corrective eyewear must be provided, by the employer, free of charge if required. A test should be carried out by an ophthalmic optician if a DSE user requests it. Employers can offer vision screening tests, but they cannot prevent a user opting for a full eyesight test instead. Where the test shows the need for corrective eyewear specifically for DSE use and to comply with the regulations, the employer must fund the basic cost.
+
+Training
+Training and information must be provided to users and operators, explaining the risks of DSE use and how to arrange the workstation safely. It should also cover what to do if the user develops any work-related health problems.
+
+Regular breaks
+Breaks aim to avoid risks of postural fatigue by introducing periodic short breaks or changes of activity away from the DSE.
