@@ -15,12 +15,17 @@
 * As we are all full-time working adults with other personal and family commitments, we had to learn how to manage our time effectively and coordinate with each other in order to get work done. We had some physical meetings as well as online meetings to discuss the project. For better communication, we used mostly Whatsapp and MS Teams to coordinate our work. 
 
 ## Sprint Burndown Charts
-
+* Sprint 1
 ![image](https://user-images.githubusercontent.com/56427412/181765259-b5d6426b-f6ef-40b6-94af-10803d052941.png)
 
+* Sprint 2
 ![image](https://user-images.githubusercontent.com/56427412/181765357-82fbbb16-6377-41b1-b0ed-2681c0ee44a8.png)
 
+* Sprint 3
 ![image](https://user-images.githubusercontent.com/56427412/181765435-af2940fd-fd4f-4cc2-8d37-47d4dd16a683.png)
+
+* Sprint 4
+![image](https://user-images.githubusercontent.com/56427412/183281039-765ef003-a4a4-46b3-b0cf-50b0b141d9f1.png)
 
 ## Burndown-Charts Discussion
 
