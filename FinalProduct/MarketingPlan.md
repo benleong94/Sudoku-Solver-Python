@@ -1,19 +1,8 @@
 # Marketing Plan
 
-*Expand upon the marketing plan slide from the CE29x lecture on Marketing.  Hints are given below.*
-
-
 # Customers
 
-*Who is likely to use/buy this product.  What demographic?*
-
-Ages 13 and up, both male and female, regardless of ethnicity or religion, anyone who is IT literate and has an interest in solving Sudoku puzzles. Target audience would mostly consist of students. Income level would not be applicable since this is a free product made readily available. We aim to capture the
-Singapore market.
-(age, gender, ethnicity, religion, level of education, occupation, income)
-
-Sudoku is a puzzle games which can assist people exersice their left brain, during solving of sudoku allows us to "stretch the muscles" in a section of our brain that may not often see a lot of use in our daily lives. Student age 13 above and elderly age 55 above will be our target audience due to student elderly have more times and
-most of elderly like to keep their mind sharp by solving puzzle. Our product is free to download with in game advertisement and its will be popular among them, primarily because they having least spending capability compared to those who are working. We aim to capture singapore market, as singapore is one of the country 
-are facing increase of elderly population. 
+Our program's target audiences are those leisure players who are ages 13 and up, both male and female, regardless of ethnicity or religion, and anyone who is IT literate and has an interest in solving Sudoku puzzles. The group would mainly consist of students or retired elderly who have more time and would like to keep their minds sharp by solving puzzles. Income level would not be applicable since this is a readily available free product. We aim to capture the Singapore market. (age, gender, ethnicity, religion, level of education, occupation, income)
 
 # Economics
 
