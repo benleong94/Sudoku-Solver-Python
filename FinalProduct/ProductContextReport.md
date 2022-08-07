@@ -11,7 +11,7 @@
 
 We would release our product under the GNU GPL (General Public License) - This Licence allows the 4 freedoms (elaborated under Ethical), and stipulates that any derivative of this software must retain these same rights.
 
-GNU General Public License is intended to guarantee your freedom to share and change all versions of a program - to make sure it remains free software for all its users. The Free Software Foundation (FSF), uses the GNU General Public License for most of their software; it applies also to any other work released this way by its authors. We can apply it to our program too.
+GNU General Public License is intended to guarantee your freedom to share and change all versions of a program - to make sure it remains free software for all its users. The Free Software Foundation (FSF) uses the GNU General Public License for most of their software; it applies also to any other work released this way by its authors. We can apply it to our program too.
 
 When we speak of free software, we are referring to freedom, not price. The General Public Licenses are designed to make sure that you have the freedom to distribute copies of free software (and charge for them if you wish), that you receive source code or can get it if you want it, that you can change the software or use pieces of it in new free programs, and that you know you can do these things.
 
