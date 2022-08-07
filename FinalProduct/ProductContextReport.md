@@ -47,7 +47,7 @@ Consider any H&S issues that have arisen or are associated with your product.
 
 The Health and Safety (Display Screen Equipment) Regulations 1992 place specific requirements on employers with the aim of protecting workers from the health risks associated with DSE. These duties also apply to the self-employed. 
 
-These provisions would mostly apply to our staff, particularly our Sudoku developers. We emphasize that these provisons do not extend to our consumers. Consumers would have to exercise their own judgement and self-responsibility to prevent excesive use of our product, which may result in detrimental health problems. 
+These provisions would mostly apply to our staff, particularly our Sudoku developers. We emphasize that these provisons do not extend to our consumers. Consumers would have to exercise their own judgement and self-responsibility to prevent excessive use of our product, which may result in detrimental health problems. 
 
 The health problems associated with display screen equipment (DSE) work are upper limb disorders (including pains in the neck, arms, elbows, wrists, and fingers); temporary eyestrain (but not eye damage) and headaches; and fatigue and stress.
 
