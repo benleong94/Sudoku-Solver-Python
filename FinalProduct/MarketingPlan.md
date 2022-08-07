@@ -10,11 +10,11 @@
 
 # Competition
 
-* The other products on the market are Sudoku solvers. They simply accept a Sudoku grid, solve it with an algorithm and display the answer. Our product differs from them in a few ways. Firstly, our program can analyze algorithms by calculating the number of tries, errors and time taken to solve the Sudoku grid. Secondly, it can provides a report that compares between different algorithms. Thirdly, it can generate a new Sudoku level based on given parameters, and allows the user to choose an easier or harder Sudoku grid, 
+* The other products on the market are Sudoku solvers. They simply accept a Sudoku grid, solve it with an algorithm and display the answer. Our product differs from them in a few ways. Firstly, our program can analyze algorithms by calculating the number of tries, errors and time taken to solve the Sudoku grid. Secondly, it can provides a report that compares between different algorithms. Thirdly, it can generate a new Sudoku level based on given parameters, and allows the user to choose an easier or harder Sudoku grid.
 
 # Product, Price, Promotion, Place
 
-* For Product, Smart game solver and Game levels generator are the main features included in our product. The Smart game solver can generate a report to a player that compares two different algorithms by analyzing the number of attempts, errors, and time required to solve the Sudoku grid. At the same time, the Game level generator can create a new Sudoku level for the player after on either easy or more difficult sudoku grid based from the analytic report. These two features will assist a player in gaining confidence in solving the game and thus increase our product demand.
+* For Product, Smart game solver and Game Level Generator are the main features included in our product. The SGS can generate a report to a player that compares two different algorithms by analyzing the number of attempts, errors, and time required to solve the Sudoku grid. At the same time, the GLG can create a new Sudoku level for the player after selecting either an easy or more difficult sudoku grid based on the analytic report. These two features will assist the player in gaining confidence in solving the game and thus increase our product demand.
 
 * For Price, our product will be accessible in the app store or play store with an in-game advertisement, and As a method of revenue generation, in-game advertising involves the sale of ad space in our product.
 
