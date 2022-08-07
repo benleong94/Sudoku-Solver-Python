@@ -17,7 +17,7 @@ Singapore market.
 * What is the current demand in target market?
 * What are the trends in target market?
 
-* Its quite hard to estimate the total size and percent share of the market of sudoku games in Singapore, as the game is relatively new compared to other puzzles such as crossword and word search puzzles. The fact that the game doesn't require any mathematical and wording ability makes it highly popular among leisure players, which raises the demand for its supply of more complex levels as the user can finish each puzzle in a short time. There is demand from hardcore players who want to explore new or alternative solving techniques besides the old backtracking method.
+* Its quite hard to estimate the total size and percent share of the market of sudoku games in Singapore, as the game is relatively new compared to other puzzles such as crossword and word search puzzles. The fact that the game doesn't require any mathematical and wording ability makes it highly popular among leisure players, which raises the demand for its supply of more complex levels as the user can finish each puzzle in a short time. There is also demand from hardcore players who want to explore new or alternative solving techniques besides the old backtracking method.
 
 # Competition
 
