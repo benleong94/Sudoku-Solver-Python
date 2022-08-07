@@ -2,7 +2,7 @@
 
 # Customers
 
-* Our program's target audiences are those leisure players who are ages 13 and up, both male and female, regardless of ethnicity or religion, and anyone who is IT literate and has an interest in solving Sudoku puzzles. The group would mainly consist of students or retired elderly who have more time and would like to keep their minds sharp by solving puzzles. Income level would not be applicable since this is a readily available free product. We aim to capture the Singapore market. (age, gender, ethnicity, religion, level of education, occupation, income)
+* Our product's target audiences are those leisure players who are ages 13 and up, both male and female, regardless of ethnicity or religion, and anyone who is IT literate and has an interest in solving Sudoku puzzles. The group would mainly consist of students or retired elderly who have more time and would like to keep their minds sharp by solving puzzles. Income level would not be applicable since this is a readily available free product. We aim to capture the Singapore market. (age, gender, ethnicity, religion, level of education, occupation, income)
 
 # Economics
 
