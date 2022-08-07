@@ -13,9 +13,10 @@
 * The other products on the market are Sudoku solvers. They simply accept a Sudoku grid, solve it with an algorithm and display the answer. Our product differs from them in a few ways. Firstly, our program can analyze algorithms by calculating the number of tries, errors and time taken to solve the Sudoku grid. Secondly, it can provides a report that compares between different algorithms. Thirdly, it can generate a new Sudoku level based on given parameters, and allows the user to choose an easier or harder Sudoku grid, 
 
 # Product, Price, Promotion, Place
-* Describe how the 4Ps apply to your product - Product, Place, Promotion, Price, and what you can do/have done to enhance these aspects.
-*Hint: State the likely price your team would choose.*  
-*Research some web-based advertising methods your team could try, and list costs.*
+
+* For Promotion, we would be adopting the online and word-of-mouth advertising method as it helps us reach a wider audience and tell the market about our product. Our vast number of levels generated using the game level generator and effective game-solving method would attract Sudoku players to try on our product, leading to discussion among them.
+
+* For Place, the distribution of our product is mainly done online by application listing in Apple Store and Google's Playstore, this greatly reduced the cost 
 
 # Sales Forecast
 * We estimate a minimum of 500k downloads in the first 12 months upon release into the Apple store or Google's Playstore. A substantial revenue will be gained from the advertisement in-game after deducting the program license or application listing cost, promoting costs, and game/server maintenance cost.
