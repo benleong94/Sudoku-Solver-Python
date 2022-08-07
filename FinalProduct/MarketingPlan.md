@@ -6,7 +6,7 @@
 
 # Economics
 
-* Its quite hard to estimate the total size and percent share of the market of sudoku games in Singapore, as the game is relatively new compared to other puzzles such as crossword and word search puzzles. The fact that the game doesn't require any mathematical and wording ability makes it highly popular among leisure players, which raises the demand for its supply of more complex levels as the user can finish each puzzle in a short time. There is also demand from hardcore players who want to explore new or alternative solving techniques besides the old backtracking method.
+* Its quite hard to estimate the total size and percent share of the market of Sudoku games in Singapore, as the game is relatively new compared to other puzzles such as Crossword and Word search puzzles. The fact that the game doesn't require any mathematical and wording ability makes it highly popular among leisure players, which raises the demand for its supply of more complex levels as the user can finish each puzzle in a short time. There is also demand from hardcore players who want to explore new or alternative solving techniques besides the old backtracking method.
 
 # Competition
 
@@ -14,7 +14,7 @@
 
 # Product, Price, Promotion, Place
 
-* For Product, Smart game solver and Level games generator are the main features included in our product sudoku. The smart game solver can generate a report to a player that compares various algorithms by analyzing the number of attempts, errors, and time required to solve the Sudoku grid. At the same time, the level games generator can create a new Sudoku level for the player to select an easy or more difficult sudoku grid based on the analytic report. These two features will assist a player in gaining confidence in solving the game and thus increase our product demand.
+* For Product, Smart game solver and Game levels generator are the main features included in our product. The Smart game solver can generate a report to a player that compares two different algorithms by analyzing the number of attempts, errors, and time required to solve the Sudoku grid. At the same time, the Game level generator can create a new Sudoku level for the player after on either easy or more difficult sudoku grid based from the analytic report. These two features will assist a player in gaining confidence in solving the game and thus increase our product demand.
 
 * For Price, our product will be accessible in the app store or play store with an in-game advertisement, and As a method of revenue generation, in-game advertising involves the sale of ad space in our product.
 
