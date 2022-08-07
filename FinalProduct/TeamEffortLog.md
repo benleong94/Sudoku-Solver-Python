@@ -17,6 +17,8 @@
 * Coding for user interface("Solve Puzzle!"). 
 * Preparing MVP document.
 
+### Sprint 5 (week 5) :
+
 ## Chio Yong Kong
 
 ### Sprint 1 (week 2) :
@@ -33,6 +35,8 @@
 ### Sprint 4 (week 4) :
 * Coding for user interface("Easier"and"Harder"). 
 * Preparing MVP document.
+
+### Sprint 5 (week 5) :
 
 ## Benjamin Leong Jia Juin
 
@@ -53,6 +57,8 @@
 * Coding for game difficulty selection's algorithm. 
 * Preparing MVP document.
 
+### Sprint 5 (week 5) :
+
 ## Nelson Tan Chun Soon
 
 ### Sprint 1 (week 2) :
@@ -70,3 +76,5 @@
 ### Sprint 4 (week 4) :
 * Coding for analytic report. 
 * Preparing MVP document.
+
+### Sprint 5 (week 5) :
