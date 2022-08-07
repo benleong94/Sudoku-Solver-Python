@@ -49,6 +49,10 @@ The Health and Safety (Display Screen Equipment) Regulations 1992 place specific
 
 These provisions would mostly apply to our staff, particularly our Sudoku developers. We emphasize that these provisons do not extend to our consumers. Consumers would have to exercise their own judgement and self-responsibility to prevent excesive use of our product, which may result in detrimental health problems. 
 
+The health problems associated with display screen equipment (DSE) work are upper limb disorders (including pains in the neck, arms, elbows, wrists, and fingers); temporary eyestrain (but not eye damage) and headaches; and fatigue and stress.
+
+Only a small proportion of people who use DSE actually suffer ill health as a result. Usually these disorders do not last, but in a few cases they may become persistent and even disabling. There may be a sudden onset of symptoms in response to short-term activities, or development may be gradual and caused by longer-term poor provision or practice. Timely reporting, investigation and action to remove the cause of problems is vital to prevent worsening of symptoms and to promote recovery. The causes may not always be obvious and can be a combination of factors, but enough is known about the importance of some measures - for example, the need to sit properly and to have frequent breaks from the screen - to allow the risks to be tackled effectively.
+
 Display Screen Equipment means any alphanumeric or graphic display screen, regardless of the display process involved. It covers PCs, laptops, tablets and smartphones as well as other methods of displaying data, such as CCTV screens.
 
 A 'user' or 'operator' is a worker or self-employed person who uses display screen equipment as a significant part of their normal work. The Health and Safety Executive (HSE) specify that it applies to 'workers who use DSE daily, for an hour or more at a time not infrequent users or short-term use'.
