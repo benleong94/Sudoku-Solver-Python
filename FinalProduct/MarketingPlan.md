@@ -14,11 +14,11 @@
 
 # Product, Price, Promotion, Place
 
-* For Product, smart game solver and level games generator are the main 2 features include in our product sudoku, Smart game solver can generate a report to player that compares various algorithms by analyzing the number of attempts, errors, and time required to solve the Sudoku grid. While, level games generator can create a new Sudoku level for player to select either easy or more difficult sudoku grid based on the analytic report. These 2 features will assist player to gain confidence in solving the game and thus increase our product demand.
+* For Product, Smart game solver and Level games generator are the main features included in our product sudoku. The smart game solver can generate a report to a player that compares various algorithms by analyzing the number of attempts, errors, and time required to solve the Sudoku grid. At the same time, the level games generator can create a new Sudoku level for the player to select an easy or more difficult sudoku grid based on the analytic report. These two features will assist a player in gaining confidence in solving the game and thus increase our product demand.
 
 * For Promotion, we would be adopting the online and word-of-mouth advertising method as it helps us reach a wider audience and tell the market about our product. Our vast number of levels generated using the game level generator and effective game-solving method would attract Sudoku players to try on our product, leading to discussion among them.
 
-* For Place, the distribution of our product is mainly done online by application listing in Apple Store and Google's Playstore, this greatly reduced the cost 
+* For Place, the distribution of our product is mainly done online by application listing in Apple Store and Google's Playstore.
 
 # Sales Forecast
 * We estimate a minimum of 500k downloads in the first 12 months upon release into the Apple store or Google's Playstore. A substantial revenue will be gained from the advertisement in-game after deducting the program license or application listing cost, promoting costs, and game/server maintenance cost.
