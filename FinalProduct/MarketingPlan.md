@@ -2,7 +2,7 @@
 
 # Customers
 
-* Our product's target audiences are those leisure players who are ages 13 and up, both male and female, regardless of ethnicity or religion, and anyone who is IT literate and has an interest in solving Sudoku puzzles. The group would mainly consist of students or retired elderly who have more time and would like to keep their minds sharp by solving puzzles. Income level would not be applicable since this is a readily available free product. We aim to capture the Singapore market, or any internet ascessible countries.
+* Our product's target audiences are those leisure players who are ages 13 and above, both male and female, regardless of ethnicity or religion, and anyone who is IT literate and has an interest in solving Sudoku puzzles. The group would mainly consist of students or retired elderly who have more time and would like to keep their minds sharp by solving puzzles. Income level would not be applicable since this is a readily available free product. We aim to capture the Singapore market, or any internet accessible countries.
 
 # Economics
 
@@ -16,7 +16,7 @@
 
 * For Product, Smart game solver and Level games generator are the main features included in our product sudoku. The smart game solver can generate a report to a player that compares various algorithms by analyzing the number of attempts, errors, and time required to solve the Sudoku grid. At the same time, the level games generator can create a new Sudoku level for the player to select an easy or more difficult sudoku grid based on the analytic report. These two features will assist a player in gaining confidence in solving the game and thus increase our product demand.
 
-* For Price, our product will be free in app store or play store with in game advertisment, As a method of revenue generation, in game advertisment involves the sale of ad space in our product.
+* For Price, our product will be accessible in the app store or play store with an in-game advertisement, and As a method of revenue generation, in-game advertising involves the sale of ad space in our product.
 
 
 * For Promotion, we would be adopting the online and word-of-mouth advertising method as it helps us reach a wider audience and tell the market about our product. Our vast number of levels generated using the game level generator and effective game-solving method would attract Sudoku players to try on our product, leading to discussion among them.
