@@ -25,4 +25,4 @@ Singapore market.
 *Research some web-based advertising methods your team could try, and list costs.*
 
 # Sales Forecast
-* We estimate a minimum of 500k downloads in the first 12 months upon release into the Apple store or Google's Playstore. A substantial revenue will be gained from the advertisement in-game after deducting the program license or listing cost, promoting costs, and game/server maintenance.
+* We estimate a minimum of 500k downloads in the first 12 months upon release into the Apple store or Google's Playstore. A substantial revenue will be gained from the advertisement in-game after deducting the program license or application listing cost, promoting costs, and game/server maintenance cost.
