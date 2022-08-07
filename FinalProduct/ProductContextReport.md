@@ -9,6 +9,9 @@
 *Also, what licence would be most suitable for your own software to be released under?*
 *Which data protection laws are relevant to your product or future customers of your product?*
 
+We would release our product under the GNU GPL (General Public License) - This Licence allows the 4 freedoms (see under Ethical), and stipulates that any derivative of this software must retain these same rights.
+
+
 ## Ethical
 Consider any ethical issues that have arisen or are associated with your product.
 
@@ -21,8 +24,6 @@ For our Sudoku software to be ethical, it should not control the consumers in an
 3. The freedom to redistribute copies so that they can help others.
 4. The freedom to distribute copies of their modified versions to others.
 
-Gnu GPL (General Public License) - This Licence allows the 4 freedoms, and stipulates that any
-derivative of this software must retain these same rights.
 
 ## Health and Safety
 Consider any H&S issues that have arisen or are associated with your product. 
