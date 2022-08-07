@@ -47,7 +47,7 @@ Consider any H&S issues that have arisen or are associated with your product.
 
 The Health and Safety (Display Screen Equipment) Regulations 1992 place specific requirements on employers with the aim of protecting workers from the health risks associated with DSE. These duties also apply to the self-employed. 
 
-These provisions would mostly apply to our staff, particularly our Sudoku developers. Consumers would have to exercise their own judgement and self-responsibility to prevent excesive use of our product, resulting in detrimental health problems. 
+These provisions would mostly apply to our staff, particularly our Sudoku developers. We emphasize that these provisons do not extend to our consumers. Consumers would have to exercise their own judgement and self-responsibility to prevent excesive use of our product, which may result in detrimental health problems. 
 
 Display Screen Equipment means any alphanumeric or graphic display screen, regardless of the display process involved. It covers PCs, laptops, tablets and smartphones as well as other methods of displaying data, such as CCTV screens.
 
