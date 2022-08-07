@@ -40,6 +40,7 @@ For our Sudoku software to be ethical, it should not control the consumers in an
 3. The freedom to redistribute copies so that they can help others.
 4. The freedom to distribute copies of their modified versions to others.
 
+Data Protection Act 1998
 
 ## Health and Safety
 Consider any H&S issues that have arisen or are associated with your product. 
