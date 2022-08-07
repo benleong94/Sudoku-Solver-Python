@@ -27,7 +27,5 @@
 * The burn-down charts show how many tasks are completed in the sprints and how much work remains. We can improve our velocity in future sprints by clarifying tasks and providing a reasonable time estimate.
 
 ## Product Backlog
-*Include here a screenshot of your current product backlog.*
 
-## Other Areas
-*If your team has anything else they want to demonstrate, e.g. advanced project management tools, reporting graphs with suitable explanation and interpretation, advanced use of Jira (e.g. issue links, epics, versions), or continuous integration tools, then include a summary here.*
+![image](https://user-images.githubusercontent.com/56427412/183280885-8095511f-6147-40c3-a2ce-ebbf559e9b67.png)
