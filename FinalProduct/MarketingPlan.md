@@ -16,6 +16,9 @@
 
 * For Product, Smart game solver and Level games generator are the main features included in our product sudoku. The smart game solver can generate a report to a player that compares various algorithms by analyzing the number of attempts, errors, and time required to solve the Sudoku grid. At the same time, the level games generator can create a new Sudoku level for the player to select an easy or more difficult sudoku grid based on the analytic report. These two features will assist a player in gaining confidence in solving the game and thus increase our product demand.
 
+* For Price, Our product will be free in app store or play store with in game advertisment, As a method of revenue generation, in game advertisment involves the sale of ad space in our product.
+
+
 * For Promotion, we would be adopting the online and word-of-mouth advertising method as it helps us reach a wider audience and tell the market about our product. Our vast number of levels generated using the game level generator and effective game-solving method would attract Sudoku players to try on our product, leading to discussion among them.
 
 * For Place, the distribution of our product is mainly done online by application listing in Apple Store and Google's Playstore.
