@@ -33,14 +33,14 @@ Consider any ethical issues that have arisen or are associated with your product
 
 We should refer to the Free Software Foundation (FSF) views of Ethical Computing.
 
-For our Sudoku software to be ethical, it should not control the consumers in any way.
+A) For our Sudoku software to be ethical, it should not control the consumers in any way.
 “Free Software” is defined to be software that grants the user 4 fundamental freedoms:
 1. The freedom to run the program as they wish, for any purpose
 2. The freedom to study how the program works, and change it so it does their computing as they wish.
 3. The freedom to redistribute copies so that they can help others.
 4. The freedom to distribute copies of their modified versions to others.
 
-Data Protection Act (DPA) 1998 - Applies to electronic and manually stored personal data (data allowing a person to be identifiable).
+B) Data Protection Act (DPA) 1998 - Applies to electronic and manually stored personal data (data allowing a person to be identifiable).
 DPA gives living and identifiable individuals the right to know what information is on record and to challenge it if appropriate. Each organisation is a Data Controller which is responsible for compliance. The people whose data is stored and used are called “data subjects”
 
 Everyone responsible for using data has to follow strict rules called ‘data protection principles’.
