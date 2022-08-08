@@ -11,7 +11,7 @@
 * Research on internet for alternative yet faster algorithms to solve the Sudoku grid. 
 
 ### Sprint 3 (week 4):
-* Testing on solving Sudoku level using the ???. The algorithm is efficient compared to the traditional backtracking method, and we decided to use the algorithm as our Smart Game Solver's algorithm.
+* Testing on solving Sudoku level using the optimized backtracking algorithm. The algorithm is efficient compared to the traditional backtracking method, and we decided to use the algorithm as our Smart Game Solver's algorithm.
 
 ### Sprint 4 (week 4) :
 * Assigned by scrum master to do coding on the user interface by inserting "Solve Puzzle!" button on the game's front page. 
