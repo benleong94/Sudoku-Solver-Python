@@ -21,13 +21,15 @@
 ![image](https://user-images.githubusercontent.com/56427412/181765259-b5d6426b-f6ef-40b6-94af-10803d052941.png)
 
 * Sprint 2
-* Sprint 2 shows we putting some user stories on 26 July and managed to done some work 
+* Sprint 2 shows we putting some user stories on 26 July and managed to done some work. 
 ![image](https://user-images.githubusercontent.com/56427412/181765357-82fbbb16-6377-41b1-b0ed-2681c0ee44a8.png)
 
 * Sprint 3
+* Sprint 3 shows we started with 10 story points and about 2 days later, we managed to complete some of the user stories which reduce to 5 story points, at the end of the day, we managed to further reduce the story points to 2. 
 ![image](https://user-images.githubusercontent.com/56427412/181765435-af2940fd-fd4f-4cc2-8d37-47d4dd16a683.png)
 
 * Sprint 4
+* Sprint 4 shows we started with 2 story points and about 5 days later, we managed to complete 1 story point, and concentrate most of the time to do MVP.
 ![image](https://user-images.githubusercontent.com/56427412/183281039-765ef003-a4a4-46b3-b0cf-50b0b141d9f1.png)
 
 ## Burndown-Charts Discussion
