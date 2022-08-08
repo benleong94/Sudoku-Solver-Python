@@ -29,8 +29,13 @@
 ![image](https://user-images.githubusercontent.com/56427412/181765435-af2940fd-fd4f-4cc2-8d37-47d4dd16a683.png)
 
 * Sprint 4
-* Sprint 4 shows we started with 2 story points and about 5 days later, we managed to complete 1 story point, and concentrate most of the time to do MVP.
+* Sprint 4 shows we started with 2 story points and about 5 days later, we managed to complete one story point, and concentrate most of the time to do MVP.
 ![image](https://user-images.githubusercontent.com/56427412/183281039-765ef003-a4a4-46b3-b0cf-50b0b141d9f1.png)
+
+* Sprint 5
+* Sprint 5 started with 4 story points, and done one of the story point on 5 Aug and another one on 7 Aug.
+![image](https://user-images.githubusercontent.com/56427412/183407949-3f771dd5-e53d-4fdb-a1a2-af16f1893d57.png)
+
 
 ## Burndown-Charts Discussion
 
