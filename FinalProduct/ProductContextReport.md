@@ -1,13 +1,6 @@
 # Product Context
 
-*Include the three sections headed below.*
-
 ## Legal
-
-*Consider the legal issues of your product.  For example, which data was used from whom, and under what licence permissions?*
-*Similarly, for any 3rd party software libraries you've used.  Acknowledge if you have full permission or not.*
-*Also, what licence would be most suitable for your own software to be released under?*
-*Which data protection laws are relevant to your product or future customers of your product?*
 
 We would release our product under the GNU GPL (General Public License) - This Licence allows the 4 freedoms (elaborated under Ethical), and stipulates that any derivative of this software must retain these same rights.
 
@@ -29,7 +22,6 @@ Finally, every program is threatened constantly by software patents. States shou
 
 
 ## Ethical
-Consider any ethical issues that have arisen or are associated with your product.
 
 We should refer to the Free Software Foundation (FSF) views of Ethical Computing.
 
@@ -55,7 +47,6 @@ There are generally Eight Principles to follow - Personal data must be:
 8. Not transferred outside the UK without adequate protection
 
 ## Health and Safety
-Consider any H&S issues that have arisen or are associated with your product. 
 
 The Health and Safety (Display Screen Equipment) Regulations 1992 place specific requirements on employers with the aim of protecting workers from the health risks associated with DSE. These duties also apply to the self-employed. 
 
