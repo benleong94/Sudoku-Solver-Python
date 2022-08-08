@@ -40,7 +40,19 @@ For our Sudoku software to be ethical, it should not control the consumers in an
 3. The freedom to redistribute copies so that they can help others.
 4. The freedom to distribute copies of their modified versions to others.
 
-Data Protection Act 1998
+Data Protection Act (DPA) 1998 - Applies to electronic and manually stored personal data (data allowing a person to be identifiable).
+DPA gives living and identifiable individuals the right to know what information is on record and to challenge it if appropriate. Each organisation is a Data Controller which is responsible for compliance. The people whose data is stored and used are called “data subjects”
+
+Everyone responsible for using data has to follow strict rules called ‘data protection principles’.
+There are generally Eight Principles to follow - Personal data must be:
+1 . Obtained and processed ‘fairly and lawfully’ - Must be with consent of the data subject and they now have to be notified to accept cookies or not.
+2. Used for limited, specifically stated purposes. Data controllers must notify the Information Commissioner (a government body) of the personal data they are collecting and the purposes for which it is being collected.
+3. Used in a way that is adequate, relevant and not excessive - E.g. do not ask for customers' address or martial status etc, if that’s not explicitly needed
+4. Accurate - Kept up to date, but this can be impractical
+5. Kept for no longer than is absolutely necessary
+6. Handled according to people’s data protection rights
+7. Kept safe and secure
+8. Not transferred outside the UK without adequate protection
 
 ## Health and Safety
 Consider any H&S issues that have arisen or are associated with your product. 
