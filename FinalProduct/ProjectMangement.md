@@ -2,7 +2,7 @@
 
 ## Project management discussion
 
-* Generally, we managed to assimilate well and work together in a team effectviely. As most of us are new to Agile methodology, we needed some time before becoming more familiar with how to run the scrum meetings. 
+* Generally, we managed to assimilate well and work together in a team effectively. As most of us are new to Agile methodology, we needed some time before becoming more familiar with how to run the scrum meetings. 
 
 * During the first two scrum meetings, we were unsure with the differences between the scrum review and sprint retrospective. As such, we focused most of our attention on the product, and less on how well we were working together. However, as the project continued, we realized the importance of the scrum retrospective, as it helped our group communicate and coordinate better. 
 
